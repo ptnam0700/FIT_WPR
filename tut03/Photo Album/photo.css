@@ -28,3 +28,7 @@
 #model-view.hidden{
     display: none;
 }
+
+.no-scroll{
+    overflow: hidden;
+}
