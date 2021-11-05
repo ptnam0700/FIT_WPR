@@ -1,0 +1,11 @@
+img{
+    height: 300px;
+    width: 200px;
+    margin-right: 5px;
+}
+
+#cards-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
