@@ -9,3 +9,7 @@ img{
     justify-content: center;
     align-items: center;
 }
+
+.active{
+    height: 450px;
+}
